@@ -18,6 +18,7 @@ import java.util.Scanner;
  *      self is initialized
  */
 
+//publice class CheckersFE {
 public class CheckersFE {
 
     /**
