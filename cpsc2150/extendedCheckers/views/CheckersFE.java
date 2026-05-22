@@ -4,6 +4,8 @@ import cpsc2150.extendedCheckers.models.BoardPosition;
 import cpsc2150.extendedCheckers.models.CheckerBoard;
 import cpsc2150.extendedCheckers.models.CheckerBoardMem;
 import cpsc2150.extendedCheckers.models.ICheckerBoard;
+//Added line here for demo: 
+import cpsc2150.extendedCheckers.util.DirectionEnum;
 
 import java.sql.SQLOutput;
 import java.util.ArrayList;
