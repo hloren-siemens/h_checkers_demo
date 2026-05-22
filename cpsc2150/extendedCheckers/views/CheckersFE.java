@@ -18,6 +18,7 @@ import java.util.Scanner;
  *      self is initialized
  */
 
+//here you can see me editing from my other account (other dev)
 
 public class CheckersFE {
 
