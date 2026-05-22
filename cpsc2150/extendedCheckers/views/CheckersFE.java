@@ -18,7 +18,7 @@ import java.util.Scanner;
  *      self is initialized
  */
 
-{
+public class CheckersFE {
 
     /**
      * Simple upper-case conversion function for piece
